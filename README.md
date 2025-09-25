@@ -11,9 +11,9 @@ import React, { useEffect, useRef } from "react";
 // ---------- CONFIG ----------
 // Replace these example TikTok URLs with your own video URLs or IDs.
 const SAMPLE_TIKTOK_URLS = [
-  "https://www.tiktok.com/@scout2015/video/6718335390845095173",
-  "https://www.tiktok.com/@therock/video/6821512076130707973",
-  // add more urls here
+https://www.tiktok.com/@sasaabukarma0?is_from_webapp=1&sender_device=pc
+[https://www.tiktok.com/@sasaabukarma0?is_from_webapp=1&sender_device=pc
+](https://www.tiktok.com/@sasaabukarma0?is_from_webapp=1&sender_device=pc)  // add more urls here
 ];
 
 // ---------- HELPERS ----------
@@ -88,7 +88,7 @@ export default function TikTokGallery() {
           </div>
           <div className="text-right">
             <a
-              href="https://www.tiktok.com/@YourTikTokUsername"
+              href="https://www.tiktok.com/@sasaabukarma0?is_from_webapp=1&sender_device=pc
               target="_blank"
               rel="noreferrer"
               className="px-4 py-2 rounded-lg border text-sm"
